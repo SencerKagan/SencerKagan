@@ -26,11 +26,6 @@ Teorik hesaplamaları simülasyon ve üretimle doğrulamayı, donanım-yazılım
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=SencerKagan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF)
-
----
-
 ### 🛠️ Kullandığım Programlar
 
 **Tasarım & Analiz (CAD / CAE)** ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge)
