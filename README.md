@@ -1,4 +1,4 @@
-# Selam, Ben Sencer Kağan! 🚀
+# Merhaba, Ben Deniz Sencer Kağan! 🚀
 
 Erciyes Üniversitesi'nde **Uzay Mühendisliği** 3. sınıf öğrencisiyim (Bölüm İkincisi, 3.30 GNO). T3 Vakfı Milli Teknoloji Bursiyeriyim. Savunma ve havacılık sanayisinde Ar-Ge odaklı, aerodinamik ve yapısal tasarım üzerine çalışmalar yürütüyorum.
 
