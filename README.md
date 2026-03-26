@@ -31,7 +31,7 @@ Teorik hesaplamaları simülasyon ve üretimle doğrulamayı, donanım-yazılım
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler ve Programlar
+### 🛠️ Kullandığım Programlar
 
 **Tasarım & Analiz (CAD / CAE)** ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge)
 ![ANSYS](https://img.shields.io/badge/ANSYS-F6A01A?style=for-the-badge)
