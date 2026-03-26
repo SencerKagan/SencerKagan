@@ -27,8 +27,17 @@ Teorik hesaplamaları simülasyon ve üretimle doğrulamayı, donanım-yazılım
 ---
 
 ### 📊 GitHub İstatistiklerim
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=SencerKagan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SencerKagan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF" alt="GitHub İstatistikleri" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SencerKagan&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" alt="En Çok Kullanılan Diller" height="150"/>
-</p>
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Programlar
+
+**Tasarım & Analiz (CAD / CAE)** ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge)
+![ANSYS](https://img.shields.io/badge/ANSYS-F6A01A?style=for-the-badge)
+![OpenRocket](https://img.shields.io/badge/OpenRocket-000000?style=for-the-badge)
+
+**Yazılım & Kontrol** ![MATLAB](https://img.shields.io/badge/MATLAB-e20000?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
